@@ -1,7 +1,7 @@
 {
-  "version": "0.2.8",
-  "notes": "修复更新机制BUG并测试更新",
+  "version": "0.2.9",
+  "notes": "幻舰0.2.9\n·修复若干BUG并优化体验\n·新增相机跟随准星与战舰连线中点（要灵敏度调低才好用点）\n·新增阳炎·利刃Preview（BUG多，四技能用不了，只能明天再搞了）",
   "zip": "https://github.com/Any-character/huanjian-release/releases/latest/download/HuanJian-update.zip",
-  "sha256": "d58a6f7206e6ad5bf78c15996cdfc45e4c37ce3ad612c03c8e03b48fcb9366f2",
-  "publishedAt": "2026-10-01 11:58"
+  "sha256": "d80813fbb91f0661bc4645040ae60d922a38cf2e0ff6dfaf20267c6112c800ae",
+  "publishedAt": "2026-10-01 22:22"
 }
