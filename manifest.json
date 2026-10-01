@@ -1,6 +1,7 @@
 {
-  "version": "0.2.7",
-  "notes": "HuanJian v0.2.7：A-140A 四技能实装、锁定系统、燃烧/漏水基数规范、真伤体系等（详见 Release 公告）",
+  "version": "0.2.8",
+  "notes": "修复更新机制BUG并测试更新",
   "zip": "https://github.com/Any-character/huanjian-release/releases/latest/download/HuanJian-update.zip",
-  "publishedAt": "2026-09-26 14:05"
+  "sha256": "d58a6f7206e6ad5bf78c15996cdfc45e4c37ce3ad612c03c8e03b48fcb9366f2",
+  "publishedAt": "2026-10-01 11:58"
 }
