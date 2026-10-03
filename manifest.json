@@ -1,7 +1,7 @@
 {
-  "version": "0.2.10",
-  "notes": "阳炎-利刃正式版\n完善战舰改建技能描述",
+  "version": "0.2.10.1",
+  "notes": "新增驱逐被动舰种技能",
   "zip": "https://github.com/Any-character/huanjian-release/releases/latest/download/HuanJian-update.zip",
-  "sha256": "8d3aedcbd72bbe81fd66baf4298d3d989e4e2673fd8cc429a3601d7e429fa590",
-  "publishedAt": "2026-10-02 15:04"
+  "sha256": "286246cc38458619d7b1d02fa34d8903570275d8e66feda64f250c45edfa5f6e",
+  "publishedAt": "2026-10-03 12:19"
 }
