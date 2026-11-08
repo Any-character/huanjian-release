@@ -1,7 +1,7 @@
 {
-  "version": "0.2.10.1",
-  "notes": "新增驱逐被动舰种技能",
+  "version": "0.2.10.2",
+  "notes": "·威斯康星\n·部分优化",
   "zip": "https://github.com/Any-character/huanjian-release/releases/latest/download/HuanJian-update.zip",
-  "sha256": "286246cc38458619d7b1d02fa34d8903570275d8e66feda64f250c45edfa5f6e",
-  "publishedAt": "2026-10-03 12:19"
+  "sha256": "0580b6ffbda5161dc413290e3699c15a4e81183f1e168f1e075b2c8d25626433",
+  "publishedAt": "2026-11-08 16:41"
 }
