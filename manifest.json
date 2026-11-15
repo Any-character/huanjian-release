@@ -1,8 +1,8 @@
 {
-  "version": "0.2.10.3",
-  "notes": "更新通道修复（国内不再 504）\n· 发版后更新包同时挂在 jsDelivr CDN，国内可直连，不再卡在 GitHub\n· 游戏内「手动下载」直接打开国内直链，不再跳到打不开的发布页\n· update.bat 不会闪退：缺文件或被杀毒拦截会明确提示\n· update.ps1 下载超时改为 90 秒，并在游戏目录写 update-log.txt（出问题时把它发回来即可定位）\n自定义战斗词条归位\n· 真伤 / 抵抗真伤 / 维修效率 / 雷达干扰 / 反雷达干扰 移入「自定义加成」\n· 新增「不屈」「受到穿甲伤害」「受到武器伤害」「固定伤害减免」可调",
+  "version": "0.2.11",
+  "notes": "界面统一（海图桌风格，2026-11-15）\n· 设置 / 词条库 / 公式库 / 自定义战斗 / 战役选择 / 战绩 / 结算 全部换成同一套视觉\n· 全屏页不再半透明（自定义战斗、公式库改成整页显示）\n· 击杀播报改成左侧黄铜竖条的战报条，罗盘换成夜海配色 + 黄铜指针\n更新通道修复（国内不再 504）\n· 更新包同时挂在 jsDelivr CDN，国内可直连，不再卡在 GitHub\n· 游戏内「手动下载」直接打开国内直链\n· update.bat 不会闪退：缺文件或被杀毒拦截会明确提示\n· update.ps1 下载超时改为 90 秒，并在游戏目录写 update-log.txt\n自定义战斗词条归位\n· 真伤 / 抵抗真伤 / 维修效率 / 雷达干扰 / 反雷达干扰 移入「自定义加成」\n· 新增「不屈」「受到穿甲伤害」「受到武器伤害」「固定伤害减免」可调",
   "zip": "https://github.com/Any-character/huanjian-release/releases/latest/download/HuanJian-update.zip",
-  "sha256": "458e1844f8371e782c8f9bcf2859ac63866f8a6ac3dbb3836f66e6f0125f06a3",
-  "publishedAt": "2026-11-15 11:08",
-  "zip_cdn": "https://cdn.jsdelivr.net/gh/Any-character/huanjian-release@main/releases/HuanJian-update-v0.2.10.3.zip"
+  "sha256": "11556d11cd3bc2a26f6581d0631bbc9ffea3535f154b3bfcb8d12ed89c57f3c9",
+  "publishedAt": "2026-11-15 11:51",
+  "zip_cdn": "https://cdn.jsdelivr.net/gh/Any-character/huanjian-release@main/releases/HuanJian-update-v0.2.11.zip"
 }
