@@ -1,7 +1,8 @@
 {
-  "version": "0.2.10.2",
-  "notes": "·威斯康星\n·部分优化",
+  "version": "0.2.10.3",
+  "notes": "更新通道修复（国内不再 504）\n· 发版后更新包同时挂在 jsDelivr CDN，国内可直连，不再卡在 GitHub\n· 游戏内「手动下载」直接打开国内直链，不再跳到打不开的发布页\n· update.bat 不会闪退：缺文件或被杀毒拦截会明确提示\n· update.ps1 下载超时改为 90 秒，并在游戏目录写 update-log.txt（出问题时把它发回来即可定位）\n自定义战斗词条归位\n· 真伤 / 抵抗真伤 / 维修效率 / 雷达干扰 / 反雷达干扰 移入「自定义加成」\n· 新增「不屈」「受到穿甲伤害」「受到武器伤害」「固定伤害减免」可调",
   "zip": "https://github.com/Any-character/huanjian-release/releases/latest/download/HuanJian-update.zip",
-  "sha256": "0580b6ffbda5161dc413290e3699c15a4e81183f1e168f1e075b2c8d25626433",
-  "publishedAt": "2026-11-08 16:41"
+  "sha256": "458e1844f8371e782c8f9bcf2859ac63866f8a6ac3dbb3836f66e6f0125f06a3",
+  "publishedAt": "2026-11-15 11:08",
+  "zip_cdn": "https://cdn.jsdelivr.net/gh/Any-character/huanjian-release@main/releases/HuanJian-update-v0.2.10.3.zip"
 }
